@@ -1,0 +1,45 @@
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati\Xhelati\bin\Debug\Xhelati.exe
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati\Xhelati\bin\Debug\Xhelati.pdb
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati\Xhelati\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati\Xhelati\obj\Debug\Xhelati.Autoret.resources
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati\Xhelati\obj\Debug\Xhelati.Loja.resources
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati\Xhelati\obj\Debug\Xhelati.Meny.resources
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati\Xhelati\obj\Debug\Xhelati.ParaLoja.resources
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati\Xhelati\obj\Debug\Xhelati.Preloader.resources
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati\Xhelati\obj\Debug\Xhelati.Prisni.resources
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati\Xhelati\obj\Debug\Xhelati.Properties.Resources.resources
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati\Xhelati\obj\Debug\Xhelati.csproj.GenerateResource.Cache
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati\Xhelati\obj\Debug\Xhelati.exe
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati\Xhelati\obj\Debug\Xhelati.pdb
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati - Copy\Xhelati\obj\Debug\Xhelati.exe
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati - Copy\Xhelati\obj\Debug\Xhelati.pdb
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati - Copy\Xhelati\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati - Copy\Xhelati\obj\Debug\Xhelati.Autoret.resources
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati - Copy\Xhelati\obj\Debug\Xhelati.Loja.resources
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati - Copy\Xhelati\obj\Debug\Xhelati.Meny.resources
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati - Copy\Xhelati\obj\Debug\Xhelati.ParaLoja.resources
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati - Copy\Xhelati\obj\Debug\Xhelati.Preloader.resources
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati - Copy\Xhelati\obj\Debug\Xhelati.Prisni.resources
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati - Copy\Xhelati\obj\Debug\Xhelati.Properties.Resources.resources
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati - Copy\Xhelati\obj\Debug\Xhelati.csproj.GenerateResource.Cache
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati - Copy\Xhelati\bin\Debug\Xhelati.exe
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati - Copy\Xhelati\bin\Debug\Xhelati.pdb
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati\Xhelati\bin\Debug\Interop.WMPLib.dll
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati\Xhelati\obj\Debug\Interop.WMPLib.dll
+C:\Users\DataProject\Documents\Visual Studio 2008\Projects\Xhelati\Xhelati\obj\Debug\Xhelati.csproj.ResolveComReference.cache
+C:\Users\trim.kadriu\Desktop\Xhelati\Solution [CS]\Xhelati\obj\Debug\Interop.WMPLib.dll
+C:\Users\trim.kadriu\Desktop\Xhelati\Solution [CS]\Xhelati\obj\Debug\Xhelati.csproj.ResolveComReference.cache
+C:\Users\trim.kadriu\Desktop\Xhelati\Solution [CS]\Xhelati\obj\Debug\Xhelati.exe
+C:\Users\trim.kadriu\Desktop\Xhelati\Solution [CS]\Xhelati\obj\Debug\Xhelati.pdb
+C:\Users\trim.kadriu\Desktop\Xhelati\Solution [CS]\Xhelati\bin\Debug\Xhelati.exe
+C:\Users\trim.kadriu\Desktop\Xhelati\Solution [CS]\Xhelati\bin\Debug\Xhelati.pdb
+C:\Users\trim.kadriu\Desktop\Xhelati\Solution [CS]\Xhelati\bin\Debug\Interop.WMPLib.dll
+C:\Users\trim.kadriu\Desktop\Xhelati\Solution [CS]\Xhelati\obj\Debug\Xhelati.csprojResolveAssemblyReference.cache
+C:\Users\trim.kadriu\Desktop\Xhelati\Solution [CS]\Xhelati\obj\Debug\Xhelati.Autoret.resources
+C:\Users\trim.kadriu\Desktop\Xhelati\Solution [CS]\Xhelati\obj\Debug\Xhelati.Loja.resources
+C:\Users\trim.kadriu\Desktop\Xhelati\Solution [CS]\Xhelati\obj\Debug\Xhelati.Meny.resources
+C:\Users\trim.kadriu\Desktop\Xhelati\Solution [CS]\Xhelati\obj\Debug\Xhelati.ParaLoja.resources
+C:\Users\trim.kadriu\Desktop\Xhelati\Solution [CS]\Xhelati\obj\Debug\Xhelati.Preloader.resources
+C:\Users\trim.kadriu\Desktop\Xhelati\Solution [CS]\Xhelati\obj\Debug\Xhelati.Prisni.resources
+C:\Users\trim.kadriu\Desktop\Xhelati\Solution [CS]\Xhelati\obj\Debug\Xhelati.Properties.Resources.resources
+C:\Users\trim.kadriu\Desktop\Xhelati\Solution [CS]\Xhelati\obj\Debug\Xhelati.csproj.GenerateResource.Cache
